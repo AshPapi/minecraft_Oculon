@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ashpapi.oculon.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinCamera",
+    "MixinGameRenderer",
+    "MixinHudAccessor",
+    "MixinMouseHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

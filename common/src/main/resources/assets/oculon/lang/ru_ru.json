@@ -1,0 +1,13 @@
+{
+  "key.category.oculon.general": "Oculon",
+  "key.oculon.zoom": "Приблизить камеру",
+  "oculon.config.general": "Oculon",
+  "oculon.config.mode": "Режим клавиши зума",
+  "oculon.config.mode.tooltip": "Определяет поведение клавиши приближения: при удерживании или по переключению.",
+  "oculon.config.mode.hold": "Удержание",
+  "oculon.config.mode.toggle": "Переключение",
+  "oculon.config.initial_zoom": "Начальная кратность",
+  "oculon.config.initial_zoom.tooltip": "Стартовое увеличение при нажатии клавиши зума.",
+  "oculon.config.remember_scroll_zoom": "Запоминать кратность колесика",
+  "oculon.config.remember_scroll_zoom.tooltip": "Сохраняет выбранную ступень колесика между повторными включениями приближения."
+}

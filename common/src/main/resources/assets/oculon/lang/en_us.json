@@ -1,0 +1,13 @@
+{
+  "key.category.oculon.general": "Oculon",
+  "key.oculon.zoom": "Zoom Camera",
+  "oculon.config.general": "Oculon",
+  "oculon.config.mode": "Zoom Key Mode",
+  "oculon.config.mode.tooltip": "Controls whether the zoom key works while held down or toggles on press.",
+  "oculon.config.mode.hold": "Hold",
+  "oculon.config.mode.toggle": "Toggle",
+  "oculon.config.initial_zoom": "Initial Zoom Factor",
+  "oculon.config.initial_zoom.tooltip": "Starting zoom multiplier when activating zoom.",
+  "oculon.config.remember_scroll_zoom": "Remember Scroll Tier",
+  "oculon.config.remember_scroll_zoom.tooltip": "Preserves the current scroll wheel zoom tier after releasing zoom."
+}
